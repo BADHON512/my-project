@@ -1,0 +1,81 @@
+#pp{
+    margin-left:auto;
+}
+.container{
+    margin: 100px auto ;
+    
+}
+#laptop{
+    margin-left: 5px;
+}
+#secod{
+    height: 40px;
+    
+}
+#smart{
+    font-size: 20px;
+    font-weight: bold;
+}
+#see{
+    font-weight: bold;
+    color: rgb(158, 158, 15);
+}
+.card-body{
+    text-align: center;
+}
+#sollar{
+padding-top: 15px;
+
+}
+.cate{
+    text-align: center;
+}
+.borda{
+    height: 10px;
+    width: 110px;
+    border: 5px solid red;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 500px;
+    background-image: linear-gradient(yellow 0%, tomato 100%);
+}
+.cole{
+    margin-left: 50px;
+}
+#gg{
+    
+    padding-top: 30px;
+    padding-left: 30px;
+    
+}
+.part-7{
+   
+   margin: 50px;
+}
+#ppl{
+    height: 150px;
+    width: 150px;
+  
+    
+}
+.kk{
+    padding-top: 30px;
+    
+}
+footer{
+    text-align: center;
+    padding: none;
+    margin: none;
+}
+.part-2{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-image:image-set(height 80px,);
+}
+
+.part-4{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
